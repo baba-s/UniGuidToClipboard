@@ -1,0 +1,1 @@
+# Uni Guid To Clipboard
